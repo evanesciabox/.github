@@ -4,7 +4,6 @@
 
 # <img src="evanescia_logo.png" width="40"> EvanesciaBox
 
-Добро пожаловать в организацию проекта EvanesciaBox на GitHub. Как было сказано в описании, EvanesciaBox - файлообменник.
-https://codeberg.org/evanesciabox
+Добро пожаловать в организацию проекта EvanesciaBox на GitHub. https://codeberg.org/evanesciabox
 
 </div>
